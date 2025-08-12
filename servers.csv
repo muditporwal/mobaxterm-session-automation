@@ -1,0 +1,6 @@
+Name,Host,User,Port,KeyPath
+dev-1,10.0.100.10,oracle,22,C:/Users/me/.ssh/id_rsa
+dev-2,10.0.100.20,oracle,22,C:/Users/me/.ssh/id_rsa
+catalog-1,10.0.200.10,admin,22,
+test-server,172.16.1.5,root,22,D:/keys/test.pem
+web-server,192.168.1.100,opc,22,
